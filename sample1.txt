@@ -1,1 +1,2 @@
 text in sample 1
+addying some more txt to s1
